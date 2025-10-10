@@ -1,4 +1,4 @@
-# Analise de Sobrevivencia Aplicada a Evasao Escolar
+# Análise de Sobrevivência Aplicada a Evasão Escolar
 
 ---
 
