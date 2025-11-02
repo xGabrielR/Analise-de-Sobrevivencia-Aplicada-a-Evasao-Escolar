@@ -218,7 +218,7 @@ Para estimar a probabilidade de sobrevivência, utilizei o estimador clássico d
 
 <img src="assets/risco.png">
 
-
+Por fim, gerei algumas simulações utilizando as distribuições binomial e geométrica para analisar como que as amostras do experimento frequentista se comportavam em relação a evasão e a relação a dado que foi evasio, ser homem.
 
 ## 5.0. Próximos Passos
 
